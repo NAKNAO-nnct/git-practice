@@ -10,4 +10,6 @@ def power(x)
     x.abs
 end
 
-
+def hige(a)
+ a-a
+end
